@@ -1,0 +1,1 @@
+This repository provides a script for merging multiple Excel files into a single file while adding a new column that contains the file name (after removing the .xlsx extension) for each row. This process streamlines the consolidation of data from multiple sources into a unified file, enhancing data analysis and organization.
